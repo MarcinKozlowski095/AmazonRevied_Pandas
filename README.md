@@ -1,8 +1,3 @@
-
-Sure, here's how you can transform this into a README.md for GitHub:
-
-markdown
-Copy code
 # Data Analysis
 
 This repository contains Python code that analyzes customer review data from Amazon. The code performs the following operations on the data:
